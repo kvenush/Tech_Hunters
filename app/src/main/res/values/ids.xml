@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="book_title_txt" type="id" />
+    <item name="book_author_txt" type="id" />
+    <item name="book_id_txt" type="id" />
+    <item name="mainLayout" type="id" />
+    <item name="cardView" type="id" />
+    <item name="book_pages_txt" type="id" />
+    <item name="title_input2" type="id" />
+    <item name="author_input2" type="id" />
+    <item name="pages_input2" type="id" />
+    <item name="update_button" type="id" />
+    <item name="delete_button" type="id" />
+</resources>
